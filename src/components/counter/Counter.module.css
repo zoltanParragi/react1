@@ -1,0 +1,13 @@
+.bg {
+    background: red;
+    color: rgb(96, 96, 122);
+}
+
+.border {
+    border: 10px solid yellow;
+    border-radius: 50%;
+}
+
+.padding {
+    padding: 30px;
+}
